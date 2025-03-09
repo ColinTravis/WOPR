@@ -1,0 +1,8 @@
+{
+    "start_hour": 7,
+    "end_hour": 1,
+    "enabled": true,
+    "timezone": -5,
+    "wifi_ssid": "Your_SSID_Here",
+    "wifi_pass": "Your_Password_Here"
+}
